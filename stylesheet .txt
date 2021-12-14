@@ -1,0 +1,21 @@
+  
+body:
+           font style  Regular
+           font size 15px
+
+
+
+ 
+navigation :
+           font style Regular
+           font size  10px
+           color #F9F5F5
+
+
+
+
+
+
+
+
+
